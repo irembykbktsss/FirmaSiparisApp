@@ -1,0 +1,12 @@
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\bin\Debug\net6.0\FirmaSiparisApp.Entity.deps.json
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\bin\Debug\net6.0\FirmaSiparisApp.Entity.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\bin\Debug\net6.0\FirmaSiparisApp.Entity.pdb
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.AssemblyInfo.cs
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\refint\FirmaSiparisApp.Entity.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\FirmaSiparisApp.Entity.pdb
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Entity\obj\Debug\net6.0\ref\FirmaSiparisApp.Entity.dll

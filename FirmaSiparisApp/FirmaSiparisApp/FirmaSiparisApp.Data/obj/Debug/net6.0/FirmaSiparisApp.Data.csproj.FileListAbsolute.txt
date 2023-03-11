@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Data.deps.json
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Data.runtimeconfig.json
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Data.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Data.pdb
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Entity.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\bin\Debug\net6.0\FirmaSiparisApp.Entity.pdb
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.AssemblyInfo.cs
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.csproj.CopyComplete
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\refint\FirmaSiparisApp.Data.dll
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.pdb
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\FirmaSiparisApp.Data.genruntimeconfig.cache
+C:\Users\Monster\Desktop\FirmaSiparisApp\FirmaSiparisApp\FirmaSiparisApp.Data\obj\Debug\net6.0\ref\FirmaSiparisApp.Data.dll

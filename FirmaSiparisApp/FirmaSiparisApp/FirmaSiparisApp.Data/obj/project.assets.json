@@ -3534,11 +3534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\FirmaSiparisApp.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\FirmaSiparisApp.Data.csproj",
       "projectName": "FirmaSiparisApp.Data",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\FirmaSiparisApp.Data.csproj",
+      "projectPath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\FirmaSiparisApp.Data.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -3563,8 +3563,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj": {
-              "projectPath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj"
+            "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj": {
+              "projectPath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj"
             }
           }
         }
@@ -3616,7 +3616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

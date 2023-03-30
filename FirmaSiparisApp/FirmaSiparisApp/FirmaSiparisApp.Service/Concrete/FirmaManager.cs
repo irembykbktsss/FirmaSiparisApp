@@ -29,10 +29,11 @@ namespace FirmaSiparisApp.Service.Concrete
 
         }
 
-        public void Delete(Firma entity)
+        public async Task Delete(Firma entity)
         {
             //iş kuralları
             _firmaRepository.Delete(entity);
+            await _firmaRepository.SaveAsync();
         }
 
         public async Task<List<Firma>> GetAll()

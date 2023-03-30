@@ -56,7 +56,10 @@ namespace FirmaSiparisApp.Service.Concrete
 
             await _urunRepository.SaveAsync();
 
+           
+
         }
+
 
         public bool Validation(Urun entity)
         {

@@ -26,34 +26,8 @@ namespace FirmaSiparisApp.Service.Concrete
 
         public async Task<Siparis> Creat(Siparis entity)
         {
-            Firma firma= new Firma();
-
-           
-            if(firma.OnayDurum == false)
-            {
-                ErrorMessage += "Firma Onaylı değil";
-            }         
-
-            DateTime now = DateTime.Now;
-            TimeSpan start = firma.siparisIzinBaslangicSaati; // 08:30
-            TimeSpan end = firma.siparisIzinBitisSaati; // 11:00
-
-
-            //firma siparis başlangıç ve bitiş saat izin aralıklarını kontrol eder
-            if ((now.TimeOfDay >= start && now.TimeOfDay <= end))
-            {
-                await _siparisRepository.Creat(entity);
-                await _siparisRepository.SaveAsync();
-                ErrorMessage += "Firma siparişi oluşturuldu.";
-            }
-            else
-            {
-                ErrorMessage += "Firma sipariş almıyor.";
-
-            }
-
-            //await _siparisRepository.Creat(entity);
-            //await _siparisRepository.SaveAsync();
+            await _siparisRepository.Creat(entity);
+            await _siparisRepository.SaveAsync();
             return entity;
 
         }

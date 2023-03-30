@@ -17,6 +17,6 @@ namespace FirmaSiparisApp.Service.Abstract
 
         Task Update(Firma entityToUpdate, Firma entity);
 
-        void Delete(Firma entity);
+        Task Delete(Firma entity);
     }
 }

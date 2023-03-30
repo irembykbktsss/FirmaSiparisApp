@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N4W1Fqw6Q0o6Ra8btnEoo26pJhzQ7JxOGsLRUrbw7hO1mthN5QM652Bbo5SC/Uxsoub85M4EDbHo/cuM6ka/Qg==",
+  "dgSpecHash": "/laWFIdr08tsrB/ZPqCZDqUyy4mealoALjMFvW+YPWmAR66pWYNC8CJbx0Mt7C1ZVvFPleRHNRsK3GPxmJqp7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Service\\FirmaSiparisApp.Service.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Service\\FirmaSiparisApp.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

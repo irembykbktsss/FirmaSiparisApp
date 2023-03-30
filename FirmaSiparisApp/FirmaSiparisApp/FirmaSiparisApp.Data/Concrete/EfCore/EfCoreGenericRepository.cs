@@ -15,6 +15,7 @@ namespace FirmaSiparisApp.Data.Concrete.EfCore
 
         protected readonly DbContext context;
 
+        //context classtan nesne oluşturduk
         public EfCoreGenericRepository(DbContext ctx)
         {
             context = ctx;
@@ -23,12 +24,14 @@ namespace FirmaSiparisApp.Data.Concrete.EfCore
         {
              await context.Set<TEntity>().AddAsync(entity);
              
+             
         }
 
         public void Delete(TEntity entity)
         {
              context.Set<TEntity>().Remove(entity);
-           
+             
+
         }
 
         public async Task<List<TEntity>> GetAll()

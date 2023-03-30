@@ -16,7 +16,7 @@ namespace FirmaSiparisApp.Data.Concrete.EfCore
         }
 
 
-        //Context'ten nesne oluşturduk(fonksiyonlarda kullanmak için)
+        //Context'ten property oluşturduk(fonksiyonlarda kullanmak için)
         private Context Context
         {
             get { return context as Context; }

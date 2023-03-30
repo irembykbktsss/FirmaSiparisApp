@@ -12,12 +12,14 @@ namespace FirmaSiparisApp.Api.Controllers
         //SiparisServis inject edildi
         private ISiparisServices _siparisService;
 
-       
+        private IFirmaServices _firmaService;
 
-        public SiparisController(ISiparisServices siparisService)
+
+
+        public SiparisController(ISiparisServices siparisService, IFirmaServices firmaService)
         {
             _siparisService = siparisService;
-           
+            _firmaService = firmaService;
         }        
 
         [HttpGet]
@@ -42,9 +44,29 @@ namespace FirmaSiparisApp.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateSiparis(Siparis entity)
         {
-            
-            await _siparisService.Creat(entity);
-            return Ok("Sipariş oluşturuldu");
+            var firma = await _firmaService.GetById(entity.FirmaId);
+
+            if (firma.OnayDurum == false)
+            {
+                return BadRequest("Firma Onaylı değil");
+            }
+
+            DateTime now = DateTime.Now;
+            TimeSpan start = firma.siparisIzinBaslangicSaati; // 08:30
+            TimeSpan end = firma.siparisIzinBitisSaati; // 11:00
+
+
+            //firma siparis başlangıç ve bitiş saat izin aralıklarını kontrol eder
+            if ((now.TimeOfDay >= start && now.TimeOfDay <= end))
+            {
+                await _siparisService.Creat(entity);
+                return Ok("Firma siparişi oluşturuldu.");
+            }
+            else
+            {
+                return BadRequest("Firma siparis izin saatleri dışında sipariş almıyor.");
+
+            }
 
         }
     }

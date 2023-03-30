@@ -68,5 +68,23 @@ namespace FirmaSiparisApp.Api.Controllers
         }
 
 
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteFirma(int id)
+        {
+           
+            //veritabanında id bilgisini kontrol ediyoruz
+            var firma = await _firmaService.GetById(id);
+
+            if (firma == null)
+            {
+                return NotFound();
+            }
+
+            await _firmaService.Delete(firma);
+            return Ok();
+
+        }
+
+
     }
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj",
       "projectName": "FirmaSiparisApp.Entity",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj",
+      "projectPath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\FirmaSiparisApp.Entity.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Documents\\GitHub\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp\\FirmaSiparisApp.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

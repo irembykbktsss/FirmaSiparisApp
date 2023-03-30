@@ -41,7 +41,7 @@ namespace FirmaSiparisApp.Api.Controllers
         public async Task<IActionResult> CreateUrun(Urun entity)
         {
             await _urunService.Creat(entity);
-            return CreatedAtAction(nameof(GetUrun), new { id = entity.Id }, entity);
+            return Ok(entity); //200 oluşan entity bilgisi döner 
         }
     }
 }
